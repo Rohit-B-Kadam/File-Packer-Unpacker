@@ -11,9 +11,13 @@ The main reason to do this project is to understand File system call like ( open
 ## Project Statistic
 
 __Platform :__ Linux
+
 __Technology :__ C
+
 __Front-end :__ C
+
 __Back-end :__ C
+
 __Type :__ CUI
 
 ---

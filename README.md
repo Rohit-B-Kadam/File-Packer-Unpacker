@@ -43,29 +43,29 @@ __Type :__ CUI
 
         - To Merge(pack)
 
-                ./PackUnpack -M        DirectoryName   FileName\n");
+                ./PackUnpack -M        DirectoryName   FileName
 
         - To Split(unpack)
 
-                ./PackUnpack -S        FileName        DirectoryName\n");
+                ./PackUnpack -S        FileName     DirectoryName
 
         - To get the specfic File from pack
 
-                ./PackUnpack -S  -get  packFileName    Foldername 		getFileName1 getFileName2 ...
+                ./PackUnpack -S  -get  packFileName    Foldername    getFileName1 getFileName2 ...
 
     3. User defined encryption
 
         - To Merge(pack)
 
-                ./PackUnpack -M        DirectoryName   FileName         key(numberical key)
+                ./PackUnpack -M        DirectoryName   FileName     key(numberical key)
 
         - To split(unpack)
 
-                ./PackUnpack -S        FileName        DirectoryName    key
+                ./PackUnpack -S        FileName    DirectoryName    key
 
         - To get the specfic File from pack
 
-                ./PackUnpack -S  -get  -e key   packFileName    Foldername       getFileName1 getFileName2 ...
+                ./PackUnpack -S  -get  -e  key   packFileName   Foldername   getFileName1 getFileName2 ...
 
 ---
 

@@ -1,6 +1,6 @@
 # File-Packer-Unpacker
 
-All Directory data(files) will be packed (merge) into a single file and then you can unpack that file to get Directory data(files) back.
+Multiple file in Directory can be packed (merge) into a single file and then you can unpack that file to get all the files of that Directory back.
 
 New file create will be in encrypt by using default key. so that know one can read our file data. You can also use your own key to encrypt and decrypt.
 
